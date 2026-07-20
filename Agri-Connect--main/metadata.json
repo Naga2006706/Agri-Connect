@@ -1,5 +1,0 @@
-{
-  "name": "AgriConnect",
-  "description": "AgriTech platform for weather, market prices, events, water management, and expert consultation.",
-  "requestFramePermissions": ["microphone"]
-}
